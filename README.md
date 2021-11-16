@@ -1,5 +1,5 @@
 # pearocr_issue
-This repository is currently only used for issue tracking for https://pearocr.com
+This repository is currently only used for issue tracking for https://pearocr.com  
 此仓库仅用于为pearocr提供BUG反馈和建议
 
 
