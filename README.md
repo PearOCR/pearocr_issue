@@ -2,6 +2,15 @@
 This repository is currently only used for issue tracking for https://pearocr.com  
 此仓库仅用于为pearocr提供BUG反馈和建议
 
+## V2.1
+1. 识别速度提升（使用新版浏览器提升幅度更大）
+2. 内存占用大幅降低，对超长图的支持更好
+3. 增加导出为word文件的功能
+4. 支持删除某一个文本块
+5. 优化操作界面
+6. 纯文本模式增加排版选项，支持三种排版模式
+7. 解决 文字太小的情况下排版错误的问题
+> 由于PWA缓存机制，更新后第一次打开还是上一版本，等缓存完毕再次刷新即可使用最新版
 
 ## V2.0
 1. 优化界面，适配小屏幕，在小窗口和移动端浏览器下有更好的体验
@@ -11,7 +20,6 @@ This repository is currently only used for issue tracking for https://pearocr.co
 5. 批量导入图片的顺序改为按文件名排序
 6. 增加导出为TXT文件功能
 7. 优化纯文本的排版效果
-> 由于PWA缓存机制，更新后第一次打开还是上一版本，等缓存完毕再次刷新即可使用最新版
 
 ## v1.2
 增加批量导出，可以导出所有图片到一个PDF文件（感谢cmldyu的建议）
